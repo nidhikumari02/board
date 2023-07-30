@@ -76,8 +76,8 @@ useEffect(validator , [])
 
       <div className="flex flex-col bg-[#F5F5F5]  h-[100vh] w-[70%] ">
         <div className="text-left m-auto pl-20 w-[56%] h-1/2 p-2 mb-52 flex flex-col justify-center">
-        <h1 className='font-bold text-2xl'>Sign in</h1>
-        <p className='text-black'>Sign in to our account</p>
+        <h1 className='font-bold text-2xl'>Sign up to Dribble</h1>
+        <p className='text-black'>Sign in </p>
         <div className="button-container py-4 flex md:flex-nowrap flex-wrap">
         <button className='bg-white text-[#858585] p-2 rounded-lg w-[35%] flex  justify-center'><img src="/google.png" className='my-1' alt="" width={'10%'}/> <span className='px-2 text-xs m-1'>Sigin in with google</span></button>
             <button className='bg-white text-[#858585] p-2  rounded-lg w-[36%] flex mx-4  justify-center'> <img src="/apple.png" className='my-1' alt="" width={'8%'}/> <span className='px-2 text-xs m-1'>Sigin in with Apple</span></button>
